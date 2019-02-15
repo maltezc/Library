@@ -36,19 +36,3 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
     };
 
-
-//    public void submitClicked(View view) {
-//
-//        Intent intent = new Intent(this, SecondActivity.class);
-//        intent.putExtra("submittal", editText.getText().toString());
-//        startActivity(intent);
-//
-//    }
-
-
-
-
-}
-//        friends.add("johny");
-//        friends.add("camila");
-//
